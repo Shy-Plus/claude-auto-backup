@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Claude Chat Auto Backup
-// @namespace    https://github.com/shy/claude-auto-backup
+// @namespace    https://github.com/Shy-Plus/claude-auto-backup
 // @version      1.0.0
 // @description  每15分钟自动备份 Claude.ai 聊天记录，通过 File System Access API 直接写入本地指定文件夹
 // @author       Shy
